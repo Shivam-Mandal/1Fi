@@ -286,5 +286,7 @@ dist/
 ---
 
 **Author:** Shivam Mandal
-*Programmer | Web Developer*
-GitHub: [github.com/Shivam-Mandal](https://github.com/Shivam-Mandal)
+
+---
+
+**GitHub:** [github.com/Shivam-Mandal](https://github.com/Shivam-Mandal)
