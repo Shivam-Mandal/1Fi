@@ -1,6 +1,6 @@
-# SnapEMI — MERN E-commerce Product Page with Mutual-Fund-Backed EMI Plans & Cloudinary
+# E-commerce Product Page with Backed EMI Plans & Cloudinary
 
-> A simple full-stack demo that displays products (smartphones) with multiple EMI plans backed by mutual funds.
+> A simple full-stack demo that displays products (smartphones) with multiple EMI plans backed.
 > Built with the MERN stack (MongoDB, Express, React, Node) and Cloudinary for image hosting.
 > The app loads dynamic product & EMI plan data from a backend API and shows responsive product pages with unique URLs.
 
