@@ -24,8 +24,7 @@
 * [EMI Plan Calculation & Data Model](#emi-plan-calculation--data-model)
 * [Deploy & Production Notes](#deploy--production-notes)
 * [Gitignore suggestions](#gitignore-suggestions)
-* [Contributing](#contributing)
-* [License](#license)
+
 
 ---
 
@@ -283,20 +282,6 @@ dist/
 .DS_Store
 *.log
 ```
-
----
-
-## Contributing
-
-1. Fork the repo
-2. Create feature branch
-3. Submit pull request
-
----
-
-## License
-
-MIT License
 
 ---
 
