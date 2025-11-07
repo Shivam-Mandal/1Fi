@@ -1,4 +1,4 @@
-# E-commerce Product Page with Backed EMI Plans & Cloudinary
+# E-commerce Product Page with EMI Plans & Cloudinary
 
 > A simple full-stack demo that displays products (smartphones) with multiple EMI plans backed.
 > Built with the MERN stack (MongoDB, Express, React, Node) and Cloudinary for image hosting.
