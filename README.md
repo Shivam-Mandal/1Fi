@@ -148,7 +148,7 @@ CLOUDINARY_API_SECRET=your_api_secret
 cd backend
 npm install
 node seed/seed.js   # to seed DB
-node server.js        # or node server.js
+node server.js        # or nodemon
 ```
 
 Server runs on `http://localhost:5000`
