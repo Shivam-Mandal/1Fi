@@ -287,6 +287,3 @@ dist/
 
 **Author:** Shivam Mandal
 
----
-
-**GitHub:** [github.com/Shivam-Mandal](https://github.com/Shivam-Mandal)
