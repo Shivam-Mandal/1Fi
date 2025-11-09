@@ -6,6 +6,18 @@
 
 ---
 
+## Hosted Links
+🔹 Frontend URLs
+
+    Primary: https://onefi.onrender.com
+
+    Alternate (if above not responding): https://1-fi-two.vercel.app
+
+🔹 Backend API URL  
+    https://onefi-backend-oecb.onrender.com
+
+---
+
 ## Table of Contents
 
 * [Demo / Objective](#demo--objective)
@@ -151,8 +163,6 @@ node seed/seed.js   # to seed DB
 node server.js        # or nodemon
 ```
 
-Server runs on `http://localhost:5000`
-
 ### Frontend (client)
 
 ```bash
@@ -160,8 +170,6 @@ cd frontend
 npm install
 npm run dev
 ```
-
-Frontend runs on `http://localhost:5173`
 
 ---
 
