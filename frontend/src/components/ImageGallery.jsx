@@ -11,7 +11,7 @@ export default function ImageGallery({ images = [] }) {
       <div className="hidden md:flex flex-col gap-3 w-20">
         {((images.length ? images : [defaultImg])).map((img, idx) => (
           <button
-            key={idx}
+            key={idx} 
             onClick={() => setActive(idx)}
             className={`w-16 h-16 p-2 rounded-lg border ${idx === active ? 'ring-2 ring-emerald-400' : 'border-slate-200'} bg-white`}
           >

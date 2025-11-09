@@ -15,7 +15,8 @@ const PORT = process.env.PORT || 5000;
 
 const allowedOrigins = [
   'https://onefi.onrender.com',   
-  'http://localhost:5173'         
+  'http://localhost:5173',
+  'https://1-fi-two.vercel.app'        
 ];
 app.use(cors({
   origin: allowedOrigins,

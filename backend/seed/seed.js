@@ -10,7 +10,7 @@ const computeMonthlyEMI = (price, annualRatePercent, months) => {
   const emi = (price * monthlyRate * Math.pow(1 + monthlyRate, months)) /
     (Math.pow(1 + monthlyRate, months) - 1);
   return Math.round(emi);
-};
+}; 
 
 const generateEmiPlans = (price) => {
   const tenures = [3, 6, 9, 12, 24];

@@ -132,3 +132,4 @@ export default function EMIBox({ price = 0, emiPlans = [] }) {
 
   );
 }
+ 
